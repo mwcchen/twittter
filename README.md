@@ -1,24 +1,8 @@
-# README
+Simplified Twitter clone made as part a project from http://www.theodinproject.com
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The goal was to become more familiar with the Devise gem and practise authentication implementation.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+These videos by Andy Leverenz served as tutorial:
+Part 1: https://youtu.be/5gUysPm64a4
+Part 2: https://youtu.be/ZxkbFOe3lRY
+Part 3: https://youtu.be/V4h7-hR_WME
